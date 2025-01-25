@@ -2,7 +2,17 @@
 
 This is a responsive restaurant website built with **React.js** and **Bootstrap**. The website showcases the menu, provides location information, and offers a simple user-friendly interface for the restaurant's customers.
 
-[Live](https://alagar2604.github.io/practice/)
+<div align="center">
+  
+   <h1>Preview</h1>   
+   
+   <img src="./Preview.png" />
+
+[Live](https://alagar2604.github.io/practice/) 
+     
+   
+</div>
+
 
 
 ## Features

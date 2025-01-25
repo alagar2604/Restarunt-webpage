@@ -24,4 +24,4 @@ To run this project locally, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/restaurant-website.git
+   git clone https://github.com/alagar2604/practice.git

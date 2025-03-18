@@ -8,7 +8,7 @@ This is a responsive restaurant website built with **React.js** and **Bootstrap*
    
    <img src="./Preview.png" />
 
-[Live](https://alagar2604.github.io/practice/) 
+[Live](https://spicy-spot.netlify.app/) 
      
    
 </div>
